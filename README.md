@@ -5,8 +5,9 @@ Raspberry PI Projects and Scripts.
 ## Raspberry PI Projects
 
 ```
-* fm_transmitter
-* stress
+* fm_transmitter - FM Transmitter project.
+* gps_track - GPS Track with Me-1000rw module.
+* stress - Rasp Stress/Temperature test.
 ```
 
 ## Scripts
